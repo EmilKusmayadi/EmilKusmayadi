@@ -72,5 +72,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/EmilKusmayadi/EmilKusmayadi/output/snake.svg" alt="Snake animation" />
 
